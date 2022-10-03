@@ -8,3 +8,6 @@ Continuous integration workflows
 ### fledge-south-iec104
 [![CI](https://github.com/fledge-power/fledge-south-iec104/actions/workflows/ci.yml/badge.svg)](https://github.com/fledge-power/fledge-south-iec104/actions/workflows/ci.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fledge-power_fledge-south-iec104&metric=alert_status)](https://sonarcloud.io/dashboard?id=fledge-power_fledge-south-iec104)
+### fledge-north-s2opcua
+[![CI](https://github.com/fledge-power/fledge-north-s2opcua/actions/workflows/ci.yml/badge.svg)](https://github.com/fledge-power/fledge-north-s2opcua/actions/workflows/ci.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fledge-power_fledge-north-s2opcua&metric=alert_status)](https://sonarcloud.io/dashboard?id=fledge-power_fledge-north-s2opcua)
